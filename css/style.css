@@ -1,0 +1,16 @@
+
+body {
+	background: #444;
+	color: #cccccc;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+a:link, a:visited, a:active {
+	color: white;
+}
+
+a:hover {
+}
